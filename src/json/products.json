@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Videogame",
+            "price": 4000
+        },
+        {
+            "id": 2,
+            "name": "Mouse",
+            "price": 60.99
+        },
+        {
+            "id": 3,
+            "name": "Teclado",
+            "price": 140.99
+        },
+        {
+            "id": 4,
+            "name": "Headset",
+            "price": 120.99
+        },
+        {
+            "id": 5,
+            "name": "Mousepad",
+            "price": 40.99
+        },
+        {
+            "id": 6,
+            "name": "Monitor",
+            "price": 1500
+        }
+    ]
+}
