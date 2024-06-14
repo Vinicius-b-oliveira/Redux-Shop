@@ -10,7 +10,7 @@ Este projeto foi criado com a ideia de aprender o básico da biblioteca Redux, i
 
 1. **Clonando o repositório:**
    ```
-   git clone https://github.com/Vinicius-b-oliveira/redux.git
+   git clone https://github.com/Vinicius-b-oliveira/Redux-Shop.git
    ```
 2. **Instalando dependências:**
    ```
