@@ -20,9 +20,13 @@ Este projeto foi criado com a ideia de aprender o básico da biblioteca Redux, i
 
 3. **Iniciando no navegador:**
    ```
-   npm start
+   npm run dev
    ```
    Este comando criará um servidor local para o projeto.
+
+## Veja através do deploy
+
+- Projeto: [Ir para projeto](https://vinicius-b-oliveira.github.io/Redux-Shop)
 
 ## Como Usar
 
